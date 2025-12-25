@@ -182,7 +182,7 @@ html {
 }
 .section-title {
    font-size: 32px;
-   font-family: var(--script-font);
+   
 }
 
 .group-button {
@@ -462,7 +462,7 @@ body {
 }
 .banner_location_name {
     font-size: 24px;
-    font-family: var(--title-font);
+   
 }
 .invitation_address {
     font-size: 14px;
@@ -513,7 +513,7 @@ body {
     letter-spacing: 8px;
 }
 .about-data .bride_name, .about-data .groom_name {
-    font-family: var(--script-font);
+    
     font-size: 50px;
     color: var(--primary-color);
 }
@@ -580,7 +580,7 @@ body {
 }
 .timeline-body .title {
     font-size: 24px;
-    font-family: var(--script-font);
+    
 }
 /* ALBUM */
 .section-album {
